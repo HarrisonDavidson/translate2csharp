@@ -1,0 +1,15 @@
+C:\Users\bigol\workspace\translate2csharp\bin\Debug\net7.0\translate2csharp.exe
+C:\Users\bigol\workspace\translate2csharp\bin\Debug\net7.0\translate2csharp.deps.json
+C:\Users\bigol\workspace\translate2csharp\bin\Debug\net7.0\translate2csharp.runtimeconfig.json
+C:\Users\bigol\workspace\translate2csharp\bin\Debug\net7.0\translate2csharp.dll
+C:\Users\bigol\workspace\translate2csharp\bin\Debug\net7.0\translate2csharp.pdb
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.csproj.AssemblyReference.cache
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.AssemblyInfoInputs.cache
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.AssemblyInfo.cs
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.csproj.CoreCompileInputs.cache
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.dll
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\refint\translate2csharp.dll
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.pdb
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\translate2csharp.genruntimeconfig.cache
+C:\Users\bigol\workspace\translate2csharp\obj\Debug\net7.0\ref\translate2csharp.dll
